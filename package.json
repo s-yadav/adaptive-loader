@@ -1,0 +1,15 @@
+{
+  "name": "adaptive-loader",
+  "version": "0.0.1",
+  "main": "adaptive_loader.js",
+  "author": "Sudhanshu Yadav",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-yadav/adaptive-loader"
+  },
+  "bugs": {
+    "mail": "sudhanshuyadav2@gmail.com",
+    "url": "https://github.com/s-yadav/adaptive-loader/issues"
+  }
+}
